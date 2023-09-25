@@ -20,7 +20,7 @@
 	},
 	"devDependencies": {
 		"@types/dotenv": "^8.2.0",
-		"@types/node": "^20.6.2",
+		"@types/node": "^20.6.5",
 		"prettier": "^3.0.3",
 		"ts-node": "^10.8.2",
 		"typescript": "^5.2.2"
